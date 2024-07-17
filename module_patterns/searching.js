@@ -11,7 +11,9 @@ let BS = () => {
     // the code for binary search
 }
 
-module.exports = {
-    linear : LS,
-    binary : BS
-}
+// module.exports = {
+//     linear : LS,
+//     binary : BS
+// }
+
+export default LS;
