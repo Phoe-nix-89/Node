@@ -17,3 +17,7 @@ let BS = () => {
 // }
 
 export default LS;
+
+export {
+    BS
+}
